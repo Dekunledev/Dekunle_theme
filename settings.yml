@@ -1,0 +1,16 @@
+header_links:
+  id: home-nav-link
+  title: Home
+  url: https://discourse.theme-creator.io/?preview_theme_id=7467
+
+header_links:
+  id: doc-nav-link
+  title: Documentation
+  url: https://developer.flutterwave.com
+  
+header_links:
+  id: forum-guide-nav-link
+  title: Forum Guide
+  url: https://discourse.theme-creator.io/?preview_theme_id=7467
+
+links_position: right
