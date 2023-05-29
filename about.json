@@ -1,0 +1,9 @@
+{
+    "name": "Dekunle_theme",
+    "about_url": null,
+    "license_url": null,
+    "assets": {},
+    "components": [
+        "https://github.com/discourse/discourse-header-search.git"
+    ]
+}
