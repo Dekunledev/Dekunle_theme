@@ -5,5 +5,10 @@
     "assets": {},
     "components": [
         "https://github.com/paviliondev/discourse-dropdown-header"
-    ]
+    ],
+    "modifiers": {
+        "svg_icons": [
+            "caret-square-down"
+        ]
+    }
 }
