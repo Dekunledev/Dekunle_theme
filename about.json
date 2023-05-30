@@ -3,9 +3,7 @@
     "about_url": null,
     "license_url": null,
     "assets": {},
-    "components": [
-        "https://github.com/paviliondev/discourse-dropdown-header"
-    ],
+    "components": [],
     "modifiers": {
         "svg_icons": [
             "caret-square-down"
