@@ -4,7 +4,6 @@
     "license_url": null,
     "assets": {},
     "components": [
-        "https://github.com/paviliondev/discourse-dropdown-header",
-        "https://github.com/discourse/discourse-header-search.git"
+        "https://github.com/paviliondev/discourse-dropdown-header"
     ]
 }
