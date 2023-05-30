@@ -1,0 +1,35 @@
+<script type="text/discourse-plugin" version="0.8">
+    api.decorateWidget('header', (widget) => {
+      widget.attach('.dropdown_header');
+      widget.attach('.header_links');
+    });
+  </script>
+
+<script type="text/discourse-plugin" version="0.8">
+    api.decorateWidget('header_links', (widget) => {
+      widget.addItem({
+        id: '1',
+        title: 'Home',
+        url: 'https://discourse.theme-creator.io/?preview_theme_id=7467', 
+      });
+    });
+  </script>
+
+<script type="text/discourse-plugin" version="0.8">
+    api.decorateWidget('header-links', (widget) => {
+      widget.addItem({
+        id: '2',
+        title: 'Categories',
+        url: 'https://discourse.theme-creator.io/?preview_theme_id=7467', 
+        dropdown: true,
+      });
+    });
+  </script>
+
+<script type="text/discourse-plugin" version="0.8">
+    api.decorateWidget('header-links', (widget) => {
+      widget.addItem({
+        id: '3',
+        title: 'Documentation',
+        url: 'https://developer.flutterwave.com', 
+  </script>
